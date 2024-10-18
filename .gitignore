@@ -1,5 +1,5 @@
 #pdfs
-.pdf
+*.pdf
 
 # Created by https://www.toptal.com/developers/gitignore/api/images,node,python,java,visualstudio,windows,macos,linux,react,laravel,flutter
 # Edit at https://www.toptal.com/developers/gitignore?templates=images,node,python,java,visualstudio,windows,macos,linux,react,laravel,flutter
